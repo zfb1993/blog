@@ -155,3 +155,10 @@
  .panel {
    margin-top: 50px;
  }
+ /* header */
+ #logout {
+   cursor: default;
+ }
+ #logout:hover {
+   background-color: transparent;
+ }
